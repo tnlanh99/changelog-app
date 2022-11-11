@@ -1,0 +1,8 @@
+-- AlterTable
+ALTER TABLE "Post" ALTER COLUMN "title" SET DATA TYPE TEXT;
+
+-- AlterTable
+ALTER TABLE "Update" ALTER COLUMN "title" SET DATA TYPE TEXT;
+
+-- AlterTable
+ALTER TABLE "UpdatePoint" ALTER COLUMN "name" SET DATA TYPE TEXT;
